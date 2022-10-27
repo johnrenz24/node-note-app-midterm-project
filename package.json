@@ -1,12 +1,13 @@
 {
   "name": "noteapp_john_renz_gamis_bsit3-2",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", "start": "node app"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "John Renz Gamis",
+  "license": "ISC",
+  "description": "midterm requirements"
 }
